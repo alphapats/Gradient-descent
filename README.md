@@ -2,10 +2,7 @@
 
 LINEAR REGRESSION WITH GRADIENT DESCENT ALGORITHM
 ------------------------------------------------------------------------------------------------------
-File name: Readme.txt
-Created by: Maj Amit Pathania
-Roll No: 163054001
-Date:05 Mar 17
+Created by: Amit Pathania
 ------------------------------------------------------------------------------------------------------
 1. To run: python3.5 main.py
 
